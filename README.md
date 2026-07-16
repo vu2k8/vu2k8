@@ -7,17 +7,18 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently a student interested in software development / computer science.
-- 📚 I’m currently learning **HTML/CSS, JavaScript, and Python** (bạn tự sửa lại các ngôn ngữ của mình nhé).
+- 🔭 I’m currently a student interested in software development & web technologies.
+- 📚 I’m focusing on web development with **HTML/CSS, JavaScript, PHP (Vanilla), and Python**.
+- 💻 My primary code editor of choice is **Cursor AI**.
 - ⚡ Fun fact: I love coding while listening to lo-fi music. 🎧
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Thay thế hoặc thêm bớt các icon công nghệ ở đây. Tham khảo icon tại https://simpleicons.org/ -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,composer" />
+    <!-- Đã cập nhật đầy đủ các icon bao gồm cả Cursor (visualstudio/vscode làm đại diện nếu skillicons chưa cập nhật cursor, hoặc dùng trực tiếp cursor) -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,github,cs" />
   </a>
 </p>
 
