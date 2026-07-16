@@ -1,6 +1,6 @@
 # Hi there, I'm Pino! 👋
 
-I am a student & developer 💻 from Vietnam 🇻🇳 who enjoys coding while listening to lo-fi music 🎧
+I am a student & developer 💻 from Vietnam 🇻🇳 who enjoys coding while listening to funk music 🎸
 
 I'm currently focusing on web development (HTML/CSS, JS, PHP, NodeJS) and Python tools.
 
