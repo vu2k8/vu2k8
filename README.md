@@ -16,8 +16,8 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ghostty,vscode,php,py,github,postman" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode,php,py,github,postman" />
   </a>
 </p>
 
