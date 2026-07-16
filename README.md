@@ -1,4 +1,4 @@
-# Hi there, I'm Vũ! 👋 (nguyenanhvu-2008)
+# Hi there, I'm Pino! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7F&width=435&lines=Student+%2F+Developer;Learning+New+Technologies;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
